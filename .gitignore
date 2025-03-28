@@ -1,0 +1,27 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment and dependency files
+env/
+venv/
+*.egg-info/
+*.pyc
+__pycache__/
+
+
+# Logs and temporary files
+*.log
+*.out
+*.tmp
+
+# Python virtual environment
+Pipfile
+Pipfile.lock
+
+# IDE specific files
+.vscode/
+.idea/
+
+# System-specific files
+.DS_Store
+Thumbs.db
