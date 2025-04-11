@@ -31,7 +31,7 @@ The analysis involves the following steps:
 - Scikit-Learn
 - Jupyter Notebook
 
-### The data set
+### The Dataset
 | Variable Name |  Variable Description |
 |---------------|-----------------------|
 |PassengerID| Passenger ID|
@@ -84,4 +84,6 @@ Contributions are welcome! Please follow these steps:
 ## License
 
 This project is licensed under the MIT License.
+
+### Happy Coding 🧑‍💻
 
